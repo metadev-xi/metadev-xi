@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate Blockchain and Web3 Developer wit
 
 - **Website:** [metadev-xi.vercel.app](#)
 - **LinkedIn:** [linkedin.com/in/mohamad-akram](#)
-- **Email:** [your-email@example.com](mailto:metadevxi@gmail.com)
+- **Email:** [metadevxi@gmail.com](mailto:metadevxi@gmail.com)
 
 ### 📈 GitHub Stats
 
