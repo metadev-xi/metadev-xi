@@ -1,6 +1,6 @@
 ![Header](https://your-image-link.com) <!-- Optional: Add a header image -->
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [MOHAMAD AKRAM]!
 
 Welcome to my GitHub profile! I'm a passionate Blockchain and Web3 Developer with over 6 years of experience in software development, including 2+ years specializing in Solidity. I enjoy building decentralized applications and smart contracts that push the boundaries of blockchain technology.
 
