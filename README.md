@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="[https://your-image-link.com](https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8)" alt="0x Technologies" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="0x Technologies" width="100%">
   <h1>🌟 Welcome to the Blockchain Universe of MOHAMAD AKRAM 🌟</h1>
   <p><i>Where Code Meets Cryptography, and Innovation Knows No Bounds</i></p>
 </div>
