@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="0x Technologies" width="10%">
-  <h1>🌟 Welcome to the Blockchain Universe of MOHAMAD AKRAM 🌟</h1>
+  <h1>🌟 Running Blockchain Universe at 0x Technologies 🌟</h1>
   <p><i>Where Code Meets Cryptography, and Innovation Knows No Bounds</i></p>
 </div>
 
@@ -89,7 +89,7 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 ---
 
 <div align="center">
-  <img src="https://your-footer-image-link.com" alt="Footer" width="100%">
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="Footer" width="10%">
   <br>
   <i>"The future is decentralized. Let's build it together."</i>
 </div>
