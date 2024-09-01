@@ -25,7 +25,7 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 
 - 🌍 **Mission:** Revolutionizing the digital landscape, one block at a time
 - 🛠 **Specialization:** Ethereum ecosystem, DeFi protocols, NFT platforms
-- 🔭 **Currently exploring:** Layer 2 solutions, Cross-chain interoperability
+- 🔭 **Currently exploring:** Layer 2 solutions, Ton Ecosystem and solutions, Cross-chain interoperability
 
 ---
 
