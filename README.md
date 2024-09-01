@@ -22,7 +22,7 @@
 
 Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized cosmos. With a passion for pushing the boundaries of blockchain technology, I craft smart contracts and dApps that are out of this world. 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌍 **Mission:** Revolutionizing the digital landscape, one block at a time
 - 🛠 **Specialization:** Ethereum ecosystem, DeFi protocols, NFT platforms
