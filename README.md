@@ -1,13 +1,13 @@
-<!-- Header Section -->
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="0x Technologies" width="10%">
-  <h1>🌟 Running Blockchain Universe at 0x Technologies 🌟</h1>
+  <h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=🌟+Running+Blockchain+Universe;at+0x+Technologies+🌟" alt="Typing SVG" /></a>
+  </h1>
   <p><i>Where Code Meets Cryptography, and Innovation Knows No Bounds</i></p>
 </div>
 
 ---
 
-<!-- Introduction -->
 <h2 align="center">👨‍💻 Blockchain Architect | Web3 Innovator | Smart Contract Specialist</h2>
 
 <p align="center">
@@ -18,10 +18,11 @@
 
 ---
 
-<!-- About Me -->
 ## 🚀 Mission Control
 
 Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized cosmos. With a passion for pushing the boundaries of blockchain technology, I craft smart contracts and dApps that are out of this world. 
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🌍 **Mission:** Revolutionizing the digital landscape, one block at a time
 - 🛠 **Specialization:** Ethereum ecosystem, DeFi protocols, NFT platforms
@@ -29,7 +30,6 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 
 ---
 
-<!-- Tech Stack -->
 ## 🛰 Tech Transmissions
 
 <div align="center">
@@ -44,37 +44,36 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 
 ---
 
-<!-- Projects & Contributions -->
 ## 🌠 Recent Projects
 
-Dive into my blockchain universe with these groundbreaking projects:
+<details>
+  <summary>Click to expand my blockchain universe!</summary>
 
-1. **🔄 Uniswap V2 DEX** - Revolutionizing decentralized trading
-2. **🥞 PancakeSwap** - Leading AMM on BNB Chain
-3. **👛 Multichain Decentralized Wallet** - Secure, user-friendly crypto management
-4. **🤝 FriendTech** - Pioneering decentralized social trading
-5. **📊 Debank.com & Zapper.fi Clones** - Multichain wallet tracking and DeFi analytics
-6. **🚀 Crypto Launchpad** - Empowering new token launches
-7. **🖼️ OpenSea-like NFT Marketplace** - Facilitating digital art trading
-8. **🔐 Multi-Signature Decentralized Vault** - Enhanced security for digital assets
-9. **🛡️ Dehack.ai** - Cutting-edge smart contract security and monitoring
-10. **💎 Pololinks** - Innovative staking with rewards on Polygon
-11. **🤖 Crypto Tracking Telegram Bot** - Real-time transaction monitoring
-12. **🔍 Etherscan-like Block Explorer** - Blockchain transparency tool
-13. **📈 DeFi Dashboard** - Comprehensive portfolio management
-14. **🌴 Celo Chain NFT Marketplace** - Expanding NFT ecosystem
-15. **🔀 Anyswap Clone** - Cross-chain asset swapping
-16. **💼 Crypto Portfolio Tracker** - Intuitive asset management
-17. **📊 Decentralized & Centralized Trading Platforms** - Catering to all trader preferences
-18. **🤖 Uniswap/PancakeSwap Trading Bot** - Automated trading strategies
-19. **☀️ Solana Trading DEX** - High-speed, low-cost trading
-20. **🏆 Multichain Staking & Rewards** - On Tron, BNB, and Ethereum chains
+  1. **🔄 Uniswap V2 DEX** - Revolutionizing decentralized trading
+  2. **🥞 PancakeSwap** - Leading AMM on BNB Chain
+  3. **👛 Multichain Decentralized Wallet** - Secure, user-friendly crypto management
+  4. **🤝 FriendTech** - Pioneering decentralized social trading
+  5. **📊 Debank.com & Zapper.fi Clones** - Multichain wallet tracking and DeFi analytics
+  6. **🚀 Crypto Launchpad** - Empowering new token launches
+  7. **🖼️ OpenSea-like NFT Marketplace** - Facilitating digital art trading
+  8. **🔐 Multi-Signature Decentralized Vault** - Enhanced security for digital assets
+  9. **🛡️ Dehack.ai** - Cutting-edge smart contract security and monitoring
+  10. **💎 Pololinks** - Innovative staking with rewards on Polygon
+  11. **🤖 Crypto Tracking Telegram Bot** - Real-time transaction monitoring
+  12. **🔍 Etherscan-like Block Explorer** - Blockchain transparency tool
+  13. **📈 DeFi Dashboard** - Comprehensive portfolio management
+  14. **🌴 Celo Chain NFT Marketplace** - Expanding NFT ecosystem
+  15. **🔀 Anyswap Clone** - Cross-chain asset swapping
+  16. **💼 Crypto Portfolio Tracker** - Intuitive asset management
+  17. **📊 Decentralized & Centralized Trading Platforms** - Catering to all trader preferences
+  18. **🤖 Uniswap/PancakeSwap Trading Bot** - Automated trading strategies
+  19. **☀️ Solana Trading DEX** - High-speed, low-cost trading
+  20. **🏆 Multichain Staking & Rewards** - On Tron, BNB, and Ethereum chains
 
-Each project represents a leap forward in blockchain technology, demonstrating my commitment to innovation and excellence in the Web3 space.
+</details>
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 Quantum Analytics
 
 <div align="center">
@@ -82,9 +81,12 @@ Each project represents a leap forward in blockchain technology, demonstrating m
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metadev-xi&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=metadev-xi&theme=radical" alt="metadev-xi" />
+</div>
+
 ---
 
-<!-- Certifications & Achievements -->
 ## 🏆 Intergalactic Achievements
 
 - 🎓 **Certified Ethereum Developer** - ConsenSys Academy
@@ -93,7 +95,6 @@ Each project represents a leap forward in blockchain technology, demonstrating m
 
 ---
 
-<!-- Connect -->
 ## 🌌 Initiate Contact
 
 <p align="center">
@@ -109,3 +110,5 @@ Each project represents a leap forward in blockchain technology, demonstrating m
   <br>
   <i>"The future is decentralized. Let's build it together."</i>
 </div>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
