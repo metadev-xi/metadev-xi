@@ -111,4 +111,4 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
   <i>"The future is decentralized. Let's build it together."</i>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/metadev-xi/metadev-xi/blob/output/github-contribution-grid-snake.svg)
