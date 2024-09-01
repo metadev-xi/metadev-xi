@@ -45,7 +45,7 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 ---
 
 <!-- Projects & Contributions -->
-## 🌠 Stellar Projects
+## 🌠 Recent Projects
 
 Dive into my blockchain universe with these groundbreaking projects:
 
