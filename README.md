@@ -47,14 +47,30 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 <!-- Projects & Contributions -->
 ## 🌠 Stellar Projects
 
-1. **🚀 DecentraVote** - A blockchain-based voting system ensuring transparency and security.
-   ![GitHub stars](https://img.shields.io/github/stars/metadev-xi/DecentraVote?style=social)
+Dive into my blockchain universe with these groundbreaking projects:
 
-2. **💎 NFT Marketplace** - A decentralized platform for trading unique digital assets.
-   ![GitHub forks](https://img.shields.io/github/forks/metadev-xi/NFT-Marketplace?style=social)
+1. **🔄 Uniswap V2 DEX** - Revolutionizing decentralized trading
+2. **🥞 PancakeSwap** - Leading AMM on BNB Chain
+3. **👛 Multichain Decentralized Wallet** - Secure, user-friendly crypto management
+4. **🤝 FriendTech** - Pioneering decentralized social trading
+5. **📊 Debank.com & Zapper.fi Clones** - Multichain wallet tracking and DeFi analytics
+6. **🚀 Crypto Launchpad** - Empowering new token launches
+7. **🖼️ OpenSea-like NFT Marketplace** - Facilitating digital art trading
+8. **🔐 Multi-Signature Decentralized Vault** - Enhanced security for digital assets
+9. **🛡️ Dehack.ai** - Cutting-edge smart contract security and monitoring
+10. **💎 Pololinks** - Innovative staking with rewards on Polygon
+11. **🤖 Crypto Tracking Telegram Bot** - Real-time transaction monitoring
+12. **🔍 Etherscan-like Block Explorer** - Blockchain transparency tool
+13. **📈 DeFi Dashboard** - Comprehensive portfolio management
+14. **🌴 Celo Chain NFT Marketplace** - Expanding NFT ecosystem
+15. **🔀 Anyswap Clone** - Cross-chain asset swapping
+16. **💼 Crypto Portfolio Tracker** - Intuitive asset management
+17. **📊 Decentralized & Centralized Trading Platforms** - Catering to all trader preferences
+18. **🤖 Uniswap/PancakeSwap Trading Bot** - Automated trading strategies
+19. **☀️ Solana Trading DEX** - High-speed, low-cost trading
+20. **🏆 Multichain Staking & Rewards** - On Tron, BNB, and Ethereum chains
 
-3. **🔐 SmartLock** - IoT-integrated smart contracts for secure access control.
-   ![GitHub issues](https://img.shields.io/github/issues/metadev-xi/SmartLock?style=social)
+Each project represents a leap forward in blockchain technology, demonstrating my commitment to innovation and excellence in the Web3 space.
 
 ---
 
