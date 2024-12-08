@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="0x Technologies" width="10%">
+  <img src="https://0xtech.guru/images/logo.png" alt="0x Technologies" width="100%">
   <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&lines=🌟+Running+Blockchain+Universe;at+0x+Technologies+🌟" alt="Typing SVG" /></a>
   </h1>
