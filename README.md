@@ -106,7 +106,7 @@ Greetings, fellow coder! I'm Mohamad Akram, your guide through the decentralized
 ---
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHooZC-xHAi6A/company-logo_100_100/company-logo_100_100/0/1720528944460?e=1733356800&v=beta&t=POsY0NgjtYgzmPssB6lHAj2Ud_7A0o2DrGw_Kznn4I8" alt="Footer" width="10%">
+  <img src="https://0xtech.guru/images/logo.png" alt="Footer" width="10%">
   <br>
   <i>"The future is decentralized. Let's build it together."</i>
 </div>
